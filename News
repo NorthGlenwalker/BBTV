@@ -1,6 +1,4 @@
-USER CBSN Live news @ http://www.cbsnews.com/live/;
 USER ABC Live News @ http://abcnews.go.com/Live;
-USER SKY Live News @ http://news.sky.com/watch-live;
-USER NDTV Live News @ http://www.ndtv.com/video/live/channel/ndtv24x7;
-USER  FOX Live News @ http://video.foxnews.com/;
-USER BBC Live News @ http://www.bbc.co.uk/iplayer/live/bbcnews
+SKYN SKY Live News @ http://news.sky.com/watch-live;
+FOXN  FOX Live News @ http://video.foxnews.com/;
+USER BBC Live News @ http://www.giniko.com/watch.php?id=216
